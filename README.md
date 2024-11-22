@@ -59,7 +59,7 @@ You can view the project live at: [www.ehsanmasseure.icu](https://www.ehsanmasse
 ---
 
 ## License
-This project is free to use and modify. Attribution is appreciated but not required.
+This project is under MPL-2.0 license.
 
 ---
 
