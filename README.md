@@ -1,5 +1,3 @@
-Here's a `README.md` file of this project:
-
 # Personal Bio Link Tree
 
 A simple, visually appealing bio link tree with a glassmorphism design, customized for personal branding. The project is built with HTML and CSS and is hosted using GitHub Pages with a custom domain.
@@ -40,7 +38,7 @@ You can view the project live at: [www.ehsanmasseure.icu](https://www.ehsanmasse
 ## Links and Contact
 - **Telegram:** [Message on Telegram](https://t.me/eshsan74?start=درود،%20اطلاعات%20بیشتر%20درمورد%20وقت%20و%20نحوه%20ماساژ%20میخواستم!)
 - **WhatsApp:** [Message on WhatsApp](https://wa.me/989139081860?text=درود،%20اطلاعات%20بیشتر%20درمورد%20وقت%20و%20نحوه%20ماساژ%20میخواستم!)
-- **Instagram:** [Instagram Profile](https://instagram.com/your-profile)  
+- **Instagram:** [Instagram Profile](https://www.instagram.com/ehsan_masseur74/)  
 - **Phone:** [Call Now](tel:+989139081860)
 
 ---
