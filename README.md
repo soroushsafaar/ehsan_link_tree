@@ -1,6 +1,5 @@
 Here's a `README.md` file for your project:
 
-```markdown
 # Personal Bio Link Tree
 
 A simple, visually appealing bio link tree with a glassmorphism design, customized for personal branding. The project is built with HTML and CSS and is hosted using GitHub Pages with a custom domain.
