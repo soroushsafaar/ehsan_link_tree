@@ -1,4 +1,4 @@
-Here's a `README.md` file for your project:
+Here's a `README.md` file of this project:
 
 # Personal Bio Link Tree
 
