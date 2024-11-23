@@ -66,8 +66,3 @@ This project is under MPL-2.0 license.
 ### Credits
 Designed by [SoroushSafaar](https://github.com/soroushsafaar)
 ```
-
-### Note:
-Update the links (e.g., Instagram) with your actual profile URL.
-
-```
