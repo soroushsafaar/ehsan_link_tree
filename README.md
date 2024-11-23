@@ -68,4 +68,6 @@ Designed by [SoroushSafaar](https://github.com/soroushsafaar)
 ```
 
 ### Note:
-Update the links (e.g., Instagram) with your actual profile URL. 
+Update the links (e.g., Instagram) with your actual profile URL.
+
+```
